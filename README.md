@@ -1,1 +1,1 @@
-Repo contains reproduction of the problem when Angular Language Service complains that component is not included in a module.
+Repo contains reproduction of the problem when Angular Language Service complains that component doesn't have a template whereas it has empty one.
